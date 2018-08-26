@@ -1,0 +1,32 @@
+body {
+	background: url(../img/bg.png) no-repeat;
+	margin: 0 auto;
+}
+
+.menu li {
+	display: inline;
+
+
+}
+a {
+	color: #ffffff;
+	text-decoration: none;
+
+}
+
+.logo {
+	display: block;
+	margin: 0 auto;
+
+}
+
+.features-list {
+	width: 251px;
+	height: 60px;
+}
+
+
+
+footer {
+	background-color: #222222;
+}
